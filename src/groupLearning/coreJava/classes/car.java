@@ -2,6 +2,7 @@ package groupLearning.coreJava.classes;
 
 public class car {
     //Comment for dev brach commit
+    //2nd Commit new line 
     private int age;
     private String brand;
     private String color;
